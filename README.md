@@ -8,3 +8,4 @@ In the terminal run  `npm install` to install dependencies
 ## References
 * [React](https://react.dev/)
 * [Flask](https://flask.palletsprojects.com/)
+* [npm](https://www.npmjs.com/)
